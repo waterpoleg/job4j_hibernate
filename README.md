@@ -2,5 +2,5 @@
 
 ## Hibernate Query Language (HQL)
 
-Learning repository to test HQL syntax,<br>
+Learning repository for testing HQL syntax,<br>
 Examples of the queries: Select, Update, Delete, Inset<br>
